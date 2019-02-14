@@ -8,6 +8,7 @@ The website is published on https://kaushikvapiwala.shinyapps.io/election2016/
 <br>• R for mathematical calculations
 <br>• Shiny framework for data organisation and representation.
 <br>• Plotly for data visualization.
+<br>• React and JavaScript for Front End.
 
 Home page
 <br><b>• The webpage opens with a notification for the user.</b>
